@@ -1,5 +1,3 @@
-import anime from "./node_modules/animejs/lib/anime.es.js";
-
 anime({
     targets: ".svg path",
     duration: 3000,
